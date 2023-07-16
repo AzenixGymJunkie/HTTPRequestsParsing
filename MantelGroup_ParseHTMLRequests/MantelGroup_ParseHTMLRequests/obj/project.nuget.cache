@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vFsxnl3ONgKuibAqNkczSXsNC06KUJJyBXX9Qxl8LOIrDhzV/AyU29Lc1XnxufMHgxdudcIuzaapeJVCpEvFRw==",
+  "success": true,
+  "projectFilePath": "/Users/reecehodges/Downloads/Mantel Group/MantelGroup_ParseHTMLRequests/MantelGroup_ParseHTMLRequests/MantelGroup_ParseHTMLRequests.csproj",
+  "expectedPackageFiles": [
+    "/Users/reecehodges/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/reecehodges/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/reecehodges/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

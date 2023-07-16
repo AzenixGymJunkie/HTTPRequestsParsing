@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MantelGroup_ParseHTMLRequests/1.0.0": {
+        "runtime": {
+          "MantelGroup_ParseHTMLRequests.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MantelGroup_ParseHTMLRequests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

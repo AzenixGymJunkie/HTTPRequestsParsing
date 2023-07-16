@@ -1,0 +1,13 @@
+C:\Users\Reece\Desktop\Mantel Group\MantelGroup_ParseHTMLRequests\MantelGroup_ParseHTMLRequests\bin\Debug\netcoreapp3.1\MantelGroup_ParseHTMLRequests.exe
+C:\Users\Reece\Desktop\Mantel Group\MantelGroup_ParseHTMLRequests\MantelGroup_ParseHTMLRequests\bin\Debug\netcoreapp3.1\MantelGroup_ParseHTMLRequests.deps.json
+C:\Users\Reece\Desktop\Mantel Group\MantelGroup_ParseHTMLRequests\MantelGroup_ParseHTMLRequests\bin\Debug\netcoreapp3.1\MantelGroup_ParseHTMLRequests.runtimeconfig.json
+C:\Users\Reece\Desktop\Mantel Group\MantelGroup_ParseHTMLRequests\MantelGroup_ParseHTMLRequests\bin\Debug\netcoreapp3.1\MantelGroup_ParseHTMLRequests.runtimeconfig.dev.json
+C:\Users\Reece\Desktop\Mantel Group\MantelGroup_ParseHTMLRequests\MantelGroup_ParseHTMLRequests\bin\Debug\netcoreapp3.1\MantelGroup_ParseHTMLRequests.dll
+C:\Users\Reece\Desktop\Mantel Group\MantelGroup_ParseHTMLRequests\MantelGroup_ParseHTMLRequests\bin\Debug\netcoreapp3.1\MantelGroup_ParseHTMLRequests.pdb
+C:\Users\Reece\Desktop\Mantel Group\MantelGroup_ParseHTMLRequests\MantelGroup_ParseHTMLRequests\obj\Debug\netcoreapp3.1\MantelGroup_ParseHTMLRequests.csprojAssemblyReference.cache
+C:\Users\Reece\Desktop\Mantel Group\MantelGroup_ParseHTMLRequests\MantelGroup_ParseHTMLRequests\obj\Debug\netcoreapp3.1\MantelGroup_ParseHTMLRequests.AssemblyInfoInputs.cache
+C:\Users\Reece\Desktop\Mantel Group\MantelGroup_ParseHTMLRequests\MantelGroup_ParseHTMLRequests\obj\Debug\netcoreapp3.1\MantelGroup_ParseHTMLRequests.AssemblyInfo.cs
+C:\Users\Reece\Desktop\Mantel Group\MantelGroup_ParseHTMLRequests\MantelGroup_ParseHTMLRequests\obj\Debug\netcoreapp3.1\MantelGroup_ParseHTMLRequests.csproj.CoreCompileInputs.cache
+C:\Users\Reece\Desktop\Mantel Group\MantelGroup_ParseHTMLRequests\MantelGroup_ParseHTMLRequests\obj\Debug\netcoreapp3.1\MantelGroup_ParseHTMLRequests.dll
+C:\Users\Reece\Desktop\Mantel Group\MantelGroup_ParseHTMLRequests\MantelGroup_ParseHTMLRequests\obj\Debug\netcoreapp3.1\MantelGroup_ParseHTMLRequests.pdb
+C:\Users\Reece\Desktop\Mantel Group\MantelGroup_ParseHTMLRequests\MantelGroup_ParseHTMLRequests\obj\Debug\netcoreapp3.1\MantelGroup_ParseHTMLRequests.genruntimeconfig.cache
